@@ -1,2 +1,4 @@
 
-Collaborators
+**Collaborators**
+
+* Khomiuk Vadym
